@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Omar Barbosa](https://omarbarbosa.com/images/icons/icon-512x512.png)
+
 <!--
 **barbosa89/barbosa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -29,6 +29,7 @@
 ---
 
 ### 🌐 Connect with Me
+- [Blog](https://omarbarbosa.com)
 - [LinkedIn](https://www.linkedin.com/in/omar-andres-barbosa-ortiz)
 - [Twitter](https://twitter.com/barbosa89)
 
